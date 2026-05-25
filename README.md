@@ -1,4 +1,4 @@
-# .github - Pipeline Status
+# Pipeline Status
 
 ## pde-shared
 
