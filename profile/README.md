@@ -1,22 +1,15 @@
 # Pipeline Status
 
-## pde-shared
+## Microservices
 
-  ![pde-shared build-master-deploy-dev](https://github.com/pre-delivery-enrolment/pde-shared/actions/workflows/build-master-deploy-dev.yml/badge.svg)
-  ![pde-shared deploy-to-stage](https://github.com/pre-delivery-enrolment/pde-shared/actions/workflows/deploy-to-stage.yml/badge.svg)
-
-## pde-gateway
-
-  ![pde-gateway build-master-deploy-dev](https://github.com/pre-delivery-enrolment/pde-gateway/actions/workflows/build-master-deploy-dev.yml/badge.svg)
-  ![pde-gateway deploy-to-stage](https://github.com/pre-delivery-enrolment/pde-gateway/actions/workflows/deploy-to-stage.yml/badge.svg)
-
-## pde-vum
-
-  ![pde-vum build-master-deploy-dev](https://github.com/pre-delivery-enrolment/pde-vum/actions/workflows/build-master-deploy-dev.yml/badge.svg)
-  ![pde-vum deploy-to-stage](https://github.com/pre-delivery-enrolment/pde-vum/actions/workflows/deploy-to-stage.yml/badge.svg)
+| Project         | Workflow 1                                                                                                                                                  | Workflow 2                                                                                                                                                          |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **pde-shared**  | ![pde-shared build-master-deploy-dev](https://github.com/pre-delivery-enrolment/pde-shared/actions/workflows/build-master-deploy-dev.yml/badge.svg)       | ![pde-shared deploy-to-stage](https://github.com/pre-delivery-enrolment/pde-shared/actions/workflows/deploy-to-stage.yml/badge.svg)                           |
+| **pde-gateway** | ![pde-gateway build-master-deploy-dev](https://github.com/pre-delivery-enrolment/pde-gateway/actions/workflows/build-master-deploy-dev.yml/badge.svg)     | ![pde-gateway deploy-to-stage](https://github.com/pre-delivery-enrolment/pde-gateway/actions/workflows/deploy-to-stage.yml/badge.svg)                       |
+| **pde-vum**     | ![pde-vum build-master-deploy-dev](https://github.com/pre-delivery-enrolment/pde-vum/actions/workflows/build-master-deploy-dev.yml/badge.svg)             | ![pde-vum deploy-to-stage](https://github.com/pre-delivery-enrolment/pde-vum/actions/workflows/deploy-to-stage.yml/badge.svg)                             |
 
 ## falcon-enrolment
 
-  ![falcon-enrolment build-and-deploy-pde-api](https://github.com/pre-delivery-enrolment/falcon-enrolment/actions/workflows/build-and-deploy-pde-api.yml/badge.svg)
-  ![falcon-enrolment build-and-deploy-frontend-customer](https://github.com/pre-delivery-enrolment/falcon-enrolment/actions/workflows/build-and-deploy-frontend-customer.yml/badge.svg)
-  ![falcon-enrolment deploy-to-stage](https://github.com/pre-delivery-enrolment/falcon-enrolment/actions/workflows/deploy-to-stage.yml/badge.svg)
+| Workflow 1                                                                                                                                                                 | Workflow 2                                                                                                                                                                        | Workflow 3                                                                                                                                                                       |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![falcon-enrolment build-and-deploy-pde-api](https://github.com/pre-delivery-enrolment/falcon-enrolment/actions/workflows/build-and-deploy-pde-api.yml/badge.svg)         | ![falcon-enrolment build-and-deploy-frontend-customer](https://github.com/pre-delivery-enrolment/falcon-enrolment/actions/workflows/build-and-deploy-frontend-customer.yml/badge.svg) | ![falcon-enrolment deploy-to-stage](https://github.com/pre-delivery-enrolment/falcon-enrolment/actions/workflows/deploy-to-stage.yml/badge.svg)                               |
