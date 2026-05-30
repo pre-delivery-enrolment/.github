@@ -1,5 +1,12 @@
 # Pipeline Status
 
+## CDK deployments
+
+| Project     | Workflow                 | Status                                                                                                                                                                                                                             |
+|-------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **pde-cdk** | Deploy all to QA         | [![pde-cdk deploy-all-to-qa](https://github.com/pre-delivery-enrolment/pde-cdk/actions/workflows/deploy-all-to-qa.yml/badge.svg)](https://github.com/pre-delivery-enrolment/pde-cdk/actions/workflows/deploy-all-to-qa.yml) |
+| **pde-cdk** | Deploy all to Production | [![pde-cdk deploy-all-to-production](https://github.com/pre-delivery-enrolment/pde-cdk/actions/workflows/deploy-all-to-production.yml/badge.svg)](https://github.com/pre-delivery-enrolment/pde-cdk/actions/workflows/deploy-all-to-production.yml) |
+
 ## Microservices
 
 | Project         | Build and deploy to Develop                                                                                                                                                                                                                                  | Deploy to a stage                                                                                                                                                                                                                    | Deploy Infra                                                                                                                                                                                                                |
